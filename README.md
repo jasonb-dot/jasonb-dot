@@ -43,7 +43,9 @@
 </head>
 <body>
     <!-- Hero Image -->
-    <img src="https://images.pexels.com/photos/221027/pexels-photo-221027.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+    <img src="https://images.unsplash.com/photo-1583672609190-8e1d4c8c181d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"  
+     alt="Roof repair"  
+     style="width: 100%; height: 350px; object-fit: cover;"> 
          alt="Austin roofing repair">
 
     <!-- Headline Section -->
