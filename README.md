@@ -54,7 +54,7 @@
 
     <!-- Tally Form Embed -->
     <script async src="https://tally.so/widgets/embed.js"></script>
-    <iframe data-tally-src="https://tally.so/embed/m6q7g5?alignLeft=1&hideTitle=1&transparentBackground=1" 
+    <iframe data-tally-src="[YOUR_ACTUAL_TALLY_URL]"
             width="100%" 
             height="1000" 
             frameborder="0" 
